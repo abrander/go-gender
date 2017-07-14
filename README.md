@@ -26,3 +26,8 @@ func ValidateUser(user User) error {
 }
 
 ```
+
+---
+
+
+Ported from [thejameskyle/gender-regex](https://github.com/thejameskyle/gender-regex)
